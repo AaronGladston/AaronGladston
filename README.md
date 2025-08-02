@@ -4,9 +4,8 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AaronGladston&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=AaronGladston&theme=tokyonight&hide_border=true&border_radius=10&fire=FF6C6C" alt="Aaron's GitHub Streak" />
 </div>
-
 
 ---
 
