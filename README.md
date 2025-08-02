@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aaron Gladston</h1>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronGladston&show_icons=true&theme=tokyonight" alt="Aaron's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGladston&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 <!--
 **AaronGladston/AaronGladston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
