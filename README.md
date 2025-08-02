@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Aaron Gladston.
+<h1 align="center">Hi 👋, I'm Aaron Gladston</h1>
 
 <!--
 **AaronGladston/AaronGladston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
