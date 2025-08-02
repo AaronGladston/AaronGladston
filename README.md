@@ -2,10 +2,10 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaronGladston&theme=onedark" />
-  <br />
-  <img src="https://github.com/ryo-ma/github-profile-trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AaronGladston&theme=onedark&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
 ---
