@@ -3,15 +3,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaronGladston&theme=onedark&margin-w=15&margin-h=15&no-frame=true" />
-</div>
-
----
-
----
-
-<div align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=AaronGladston&bg_color=1a1b27&color=38BDF8&line=4ADE80&point=F472B6&area=true&area_color=22d3ee&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronGladston&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGladston&layout=compact&theme=tokyonight" />
 </div>
 
 ---
