@@ -4,7 +4,9 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AaronGladston&theme=tokyonight&hide_border=true&border_radius=10&fire=FF6C6C" alt="Aaron's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AaronGladston&show_icons=true&theme=tokyonight" alt="Aaron's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGladston&layout=compact&theme=tokyonight" />
 </div>
 
 ---
