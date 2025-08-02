@@ -2,14 +2,19 @@
 
 ---
 
----
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AaronGladston&theme=onedark&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://github-contribution-graph.vercel.app/api/?username=AaronGladston&bg_color=1a1b27&color=38BDF8&line=4ADE80&point=F472B6&area=true&area_color=22d3ee&theme=tokyonight" />
+</div>
+
+---
 
 <!--
 **AaronGladston/AaronGladston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
