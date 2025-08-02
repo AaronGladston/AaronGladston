@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaron Gladston</h1>
 
 ---
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AaronGladston&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-</div>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AaronGladston&theme=tokyonight&hide_border=false" />
+</div>
 
 
 ---
