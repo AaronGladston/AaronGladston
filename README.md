@@ -2,10 +2,8 @@
 
 ---
 
-## ✨ GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=AaronGladston&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronGladston&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGladston&layout=compact&theme=tokyonight)
 
 ---
 
